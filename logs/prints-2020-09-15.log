@@ -1,0 +1,9 @@
+f23:01:33.647 [main] ERROR alpha.Demo - Button is not displayed
+23:01:33.651 [main] FATAL alpha.Demo - Button is missing
+23:02:05.838 [main] DEBUG alpha.Demo - I have clicked the button
+23:02:05.843 [main] INFO  alpha.Demo - Button is displayed
+23:02:05.843 [main] ERROR alpha.Demo - Button is not displayed
+23:02:05.843 [main] FATAL alpha.Demo - Button is missing
+23:04:05.718 [main] DEBUG beta.Demo1 - I have clicked the button
+23:04:05.721 [main] INFO  beta.Demo1 - Button is displayed
+23:04:05.722 [main] ERROR beta.Demo1 - Button is not displayed
